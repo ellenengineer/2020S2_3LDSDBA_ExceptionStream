@@ -1,0 +1,13 @@
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.exe
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.deps.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.runtimeconfig.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.runtimeconfig.dev.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\bin\Debug\netcoreapp3.1\Exception_Stream.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.csprojAssemblyReference.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.AssemblyInfoInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.AssemblyInfo.cs
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Aula7\Exception_Stream\Exception_Stream\obj\Debug\netcoreapp3.1\Exception_Stream.genruntimeconfig.cache
